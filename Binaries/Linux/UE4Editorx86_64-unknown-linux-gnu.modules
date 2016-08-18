@@ -1,0 +1,8 @@
+{
+	"Changelist" : 0,
+	"BuildId" : "",
+	"Modules" : 
+	{
+		"TwinProject" : "libUE4Editor-TwinProject.so"
+	}
+}
